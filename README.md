@@ -4,4 +4,4 @@
 - 🌱 I write technical articles on Data Science, AI, and Python
 - 💬 Ask me about Data Analysis, Data Science, Machine Learning and Software Development(I'll try)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love teaching programming topics in a relatable manner 
+- ⚡ Fun fact: I love teaching programming topics in a fun and interesting way 
