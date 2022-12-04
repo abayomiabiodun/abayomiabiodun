@@ -1,10 +1,7 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Mammographic Mass Prediction
-- 🌱 I’m currently learning Data Science/Machine Learning and Software Engineering(Backend with Nodejs)
-- 👯 I’m looking to collaborate on project related to Data Science, Machine Learning and software
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about Data Science / Machine Learning and Software Development
-- 📫 How to reach me: ... 
+### Hi I'm Abayomi 👋, a data analyst/scientist.
+- 👯 I’m looking to collaborate on project related to Data Analysis, Data Science, Machine Learning and software Development 
+🔭 I’m currently working on Mammographics Mass Predicting App
+🌱 I write technical articles on Data Science, AI, and Python
+- 💬 Ask me about Data Analysis, Data Science, Machine Learning and Software Development(I'll try)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love teaching programming topics in a relatable manner 
